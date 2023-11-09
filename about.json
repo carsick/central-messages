@@ -1,0 +1,10 @@
+{
+  "about_url": "TODO: Put your theme's public repo or Meta topic URL here",
+  "license_url": "TODO: Put your theme's LICENSE URL here",
+  "assets": {},
+  "modifiers": {
+    "serialize_topic_excerpts": true
+  },
+  "name": "Central Messages",
+  "component": true
+}
